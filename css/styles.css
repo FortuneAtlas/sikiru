@@ -23,7 +23,7 @@ body {
 }
 
 .bg1 {
-  background-image: url("../../V&I/images/bg.png");
+  background-image: url("images/bg.png");
   color: black;
   background-size: cover;
   width:100%;
@@ -32,7 +32,7 @@ body {
 
 @media (max-width: 720px) {
   .bg1 {
-    background-image: url("../../V&I/images/bg2.png");
+    background-image: url("images/bg2.png");
     background-size: contain;
     background-repeat: no-repeat;
     max-width: 100%;
